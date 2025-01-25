@@ -46,6 +46,6 @@ chain = (
     RunnableLambda(lambda x: combine_verdicts(x["branches"]["plot"], x["branches"]["characters"]))
 )
 
-result = chain.invoke({"movie": "The Matrix"})
+result = chain.invoke({"movie": "Avengers: Endgame"})
 
 print(result)
