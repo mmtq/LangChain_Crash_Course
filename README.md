@@ -1,7 +1,7 @@
 # LangChain Crash Course 🚀
-Welcome to the LangChain Crash Course repository! This project is a hands-on guide to learning and practicing LangChain, a powerful framework for building applications powered by language models. In this course, I explored various LangChain concepts such as chat models, prompt templates, chains, RAG (Retrieval-Augmented Generation), and agents, using the ChatGroq API.
+Welcome to the LangChain Crash Course repository! This is where I practiced building applications with LangChain, a framework for language model-powered apps. I followed a YouTube course to learn and implement concepts like chat models, prompt templates, chains, RAG (Retrieval-Augmented Generation), and agents, using the ChatGroq API.
 
-Whether you're a beginner or an experienced developer, this repository will help you understand and implement LangChain components effectively.
+Whether you're new to LangChain or already familiar, this repository can help you understand and use its components effectively.
 
 ## 📚 Topics Covered
 ### Chat Models:
