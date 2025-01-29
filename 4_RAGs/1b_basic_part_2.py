@@ -23,5 +23,5 @@ relevant_docs = retriever.invoke(query)
 print("\n---Relevant Documents---")
 for i, doc in enumerate(relevant_docs):
     print(f"Document {i}: {doc.page_content}")
-    # if doc.metadata:
-    #     print(f"Source: {doc.metadata['source', 'Unknown']}\n")
+    if doc.metadata:
+        print(f"Source: {doc.metadata}\n")
